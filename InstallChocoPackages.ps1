@@ -3,5 +3,5 @@ choco install notepadplusplus -y
 choco install googlechrome -y
 choco install sqltoolbelt "/FTP /products:'SQL Compare, SQL Data Compare'" -y
 choco install sql-server-2017 -y
-choco install postman -y
+choco install postman --Force -y 
 Restart-Computer
