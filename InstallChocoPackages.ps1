@@ -6,5 +6,5 @@ choco install -y notepadplusplus --force
 choco install -y googlechrome --force
 choco install -y sql-server-2017 --force
 choco install -y postman --force
-choco install -y sqltoolbelt "/products:'SQL Compare, SQL Data Compare'" --force
+choco install -y sqltoolbelt --force
 Restart-Computer -force
